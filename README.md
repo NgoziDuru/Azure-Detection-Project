@@ -3,7 +3,7 @@
  ### [Video Demonstration](https://drive.google.com/file/d/15Yy3JxFHYsPoA2NK2h7znp7KdjujCiWp/view?usp=drive_web)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Project consists of a cloud detection enviroment that walks the user through building a system that generates,monitor and respond to security incidences and alerts. The architecture allows you to built a virtual machine,activate network security best practices,store logs,create custom logs and anlytic rules that triggers the desired results. .
 <br />
 
 
@@ -19,7 +19,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Step 1: Deploy a Virtual Machine: <br/>
 <img src="https://i.imgur.com/DvhV3SY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
