@@ -3,7 +3,7 @@
  ### [Video Demonstration](https://drive.google.com/file/d/15Yy3JxFHYsPoA2NK2h7znp7KdjujCiWp/view?usp=drive_web)
 
 <h2>Description</h2>
-Project consists of a cloud detection enviroment that walks the user through building a system that generates,monitor and respond to security incidences and alerts. The architecture allows you to built a virtual machine,activate network security best practices,store logs,create custom logs and anlytic rules that triggers the desired results. .
+Project consists of a cloud detection enviroment that walks the user through building a system that generates,monitor and respond to security incidences and alerts. The architecture allows you to deploy a virtual machine,activate network security best practices,store logs,create custom logs and anlytic rules that triggers the desired results. .
 <br />
 
 
@@ -19,8 +19,8 @@ Project consists of a cloud detection enviroment that walks the user through bui
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Step 1: Deploy a Virtual Machine: <br/>
-<img src="https://i.imgur.com/DvhV3SY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step 1:Create a Resource Group and Deploy a Virtual Machine: <br/>
+<img src="https://i.imgur.com/Ft8SWJf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
