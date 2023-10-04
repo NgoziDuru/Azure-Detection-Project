@@ -16,7 +16,7 @@ Project consists of a cloud detection enviroment that walks the user through bui
 
 - <b>Windows 10 Virtual machine</b> (21H2)
 
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
 
 <p align="center">
 Step 1:Create a Resource Group and Deploy a Virtual Machine: <br/>
