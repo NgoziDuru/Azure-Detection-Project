@@ -21,11 +21,11 @@ Project consists of a cloud detection enviroment that walks the user through bui
 <p align="center">
 Step 1:Create a Resource Group and Deploy a Virtual Machine: <br/>
  We will be collecting our data from a Windows Virtual Machine. To deploy a Virtual Machine in Azure follow these steps.
-<img src=https://i.imgur.com/a/a67dcxU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/a/a67dcxU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src=https://imgur.com/a/a67dcxU" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/a67dcxU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
